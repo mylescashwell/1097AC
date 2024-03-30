@@ -1,0 +1,112 @@
+{
+  "errors": [
+    {
+      "api_code": "invalid_entry",
+      "cta_text": null,
+      "cta_url": null,
+      "detail": "Make 2+ picks",
+      "entry_error_code": "invalid_selection_count",
+      "http_status_code": 422,
+      "invalid_options": [],
+      "title": "Invalid entry"
+    }
+  ],
+  "insurance": {
+    "fallbacks": [],
+    "is_boosted_multiplier": false,
+    "max_fee": "2000.0",
+    "max_multiplier": "50.0",
+    "min_fee": "1.0",
+    "min_selection_count": 3,
+    "other_payouts": [
+      {
+        "payout_multiplier": "3.0",
+        "selection_count": 2
+      },
+      {
+        "payout_multiplier": "3.0",
+        "selection_count": 3
+      },
+      {
+        "payout_multiplier": "6.0",
+        "selection_count": 4
+      },
+      {
+        "payout_multiplier": "10.0",
+        "selection_count": 5
+      },
+      {
+        "payout_multiplier": "25.0",
+        "selection_count": 6
+      },
+      {
+        "payout_multiplier": "40.0",
+        "selection_count": 7
+      },
+      {
+        "payout_multiplier": "80.0",
+        "selection_count": 8
+      }
+    ],
+    "payout_multiplier": "0.0",
+    "payout_option_id": null
+  },
+  "pickem_pools": [
+    {
+      "entry_role": null,
+      "max_fee": "1200.0",
+      "min_fee": "1.0",
+      "rake": "0.4",
+      "style_id": "66662750-ccf8-413d-8bf1-fc335e1f4a59",
+      "total_fees": "40000.0"
+    },
+    {
+      "entry_role": "admin",
+      "max_fee": "3.0",
+      "min_fee": "1.0",
+      "rake": "0.4",
+      "style_id": "3e40011d-3206-4e96-930e-86de845d3587",
+      "total_fees": "100.0"
+    }
+  ],
+  "selection_count": 0,
+  "standard": {
+    "is_boosted_multiplier": false,
+    "max_fee": "2000.0",
+    "max_multiplier": "100.0",
+    "min_fee": "1.0",
+    "min_selection_count": 2,
+    "other_payouts": [
+      {
+        "payout_multiplier": "3.0",
+        "selection_count": 2
+      },
+      {
+        "payout_multiplier": "6.0",
+        "selection_count": 3
+      },
+      {
+        "payout_multiplier": "10.0",
+        "selection_count": 4
+      },
+      {
+        "payout_multiplier": "20.0",
+        "selection_count": 5
+      },
+      {
+        "payout_multiplier": "25.0",
+        "selection_count": 6
+      },
+      {
+        "payout_multiplier": "40.0",
+        "selection_count": 7
+      },
+      {
+        "payout_multiplier": "80.0",
+        "selection_count": 8
+      }
+    ],
+    "payout_multiplier": "0.0",
+    "payout_option_id": null
+  }
+}
