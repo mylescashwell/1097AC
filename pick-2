@@ -1,0 +1,58 @@
+{
+  "errors": [],
+  "insurance": null,
+  "pickem_pools": [
+    {
+      "entry_role": null,
+      "max_fee": "400.0",
+      "min_fee": "1.0",
+      "rake": "0.4",
+      "style_id": "66662750-ccf8-413d-8bf1-fc335e1f4a59",
+      "total_fees": "40000.0"
+    },
+    {
+      "entry_role": "admin",
+      "max_fee": "3.0",
+      "min_fee": "1.0",
+      "rake": "0.4",
+      "style_id": "3e40011d-3206-4e96-930e-86de845d3587",
+      "total_fees": "100.0"
+    }
+  ],
+  "selection_count": 2,
+  "standard": {
+    "is_boosted_multiplier": true,
+    "max_fee": "20.0",
+    "max_multiplier": "100.0",
+    "min_fee": "1.0",
+    "min_selection_count": 2,
+    "other_payouts": [
+      {
+        "payout_multiplier": "12.0",
+        "selection_count": 3
+      },
+      {
+        "payout_multiplier": "24.0",
+        "selection_count": 4
+      },
+      {
+        "payout_multiplier": "40.0",
+        "selection_count": 5
+      },
+      {
+        "payout_multiplier": "25.0",
+        "selection_count": 6
+      },
+      {
+        "payout_multiplier": "40.0",
+        "selection_count": 7
+      },
+      {
+        "payout_multiplier": "80.0",
+        "selection_count": 8
+      }
+    ],
+    "payout_multiplier": "6.0",
+    "payout_option_id": "96c49776-0fbc-4b7d-8dfd-3d2f5bc04de4"
+  }
+}
